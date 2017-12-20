@@ -17,5 +17,7 @@
 
 #Harvard
 
+        Surgindo como uma solução para o gargalo de Von Neumann, a arquitetura de Harvard era parecida com essa primeira, mas suas diferenças foram quem chamaram atenção.
+        Ao separar os barramentos para instrução dos barramentos para dados, parte do problema já foi resolvido. Para deixar o gargalo completamente para trás, foram criadas também memórias espefícicas para barramentos e outras para dados.
 	
 	
